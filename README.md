@@ -1,2 +1,5 @@
-## Background
+## Abstract
+### Background
 Cardiovascular disease is a general term for a group of conditions that affect the heart and blood vessels (NHS, 2022). It affects over half a billion people worldwide and accounts for 32% of global deaths (World Health Organization, 2025). Early interventions such as lifestyle changes and medication significantly reduce mortality and long term morbidity.Machine Learing offers the opportunite for early detection to help reduce number of deaths caused by cardiovascular disease.
+## Methods
+A clinically framed comparison of Logistic Regression and XGBoost for binary classification of heart disease using the UCI Cleveland Heart Disease Dataset (303 patients, 13 features). Full methods, results and discussion are provided in the accompanying report. Publicly available at https://archive.ics.uci.edu/dataset/45/heart+disease. Loads automatically via ucimlrepo — no manual download required. Open the notebook in Google Colab and run all cells in order using Runtime → Run All. All figures are saved to Google Drive on the final cell. Requirements: ucimlrepo, scikit-learn, xgboost, shap, pandas, numpy, matplotlib, seaborn, scipy.
