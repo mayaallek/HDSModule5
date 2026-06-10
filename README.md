@@ -1,0 +1,2 @@
+**Background**
+Cardiovascular disease is a general term for a group of conditions that affect the heart and blood vessels (NHS, 2022). It affects over half a billion people worldwide and accounts for 32% of global deaths (World Health Organization, 2025). Early interventions such as lifestyle changes and medication significantly reduce mortality and long term morbidity.Machine Learing offers the opportunite for early detection to help reduce number of deaths caused by cardiovascular disease.
